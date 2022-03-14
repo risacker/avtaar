@@ -129,7 +129,7 @@ nav img{
     background: #FFFFFF;
     border: 1px solid #B8B298;
     box-sizing: border-box;
-border-radius: 8px;
+    border-radius: 8px;
 }
 .dropdown3{
     position: absolute;
@@ -148,7 +148,7 @@ border-radius: 8px;
     height: 19px;
     top:11px;
     left:21px;
-   font-family: Lato;
+    font-family: Lato;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
@@ -283,82 +283,81 @@ border-radius: 8px;
 }
 .rect-2{
     display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 5px 16px;
-position: absolute;
-width: 218px;
-height: 30px;
-left: 135px;
-top: 230px;
-background: #FFFFFF;
-border: 1px solid rgba(0, 0, 0, 0.1);
-box-sizing: border-box;
-border-radius: 4px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 16px;
+    position: absolute;
+    width: 218px;
+    height: 30px;
+    left: 135px;
+    top: 230px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 4px;
 }
 .method{
     position: static;
-width: 186px;
-height: 20px;
-left: 16px;
-top: 5px;
-font-family: SoleilW01-Regular;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 20px;
-color: #606060;
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 10px;
+    width: 186px;
+    height: 20px;
+    left: 16px;
+    top: 5px;
+    font-family: SoleilW01-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #606060;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
 }
 .rect-3{
     display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 5px 16px;
-position: absolute;
-width: 195px;
-height: 27px;
-left: 135px;
-top: 270px;
-background: #FFFFFF;
-border: 1px solid rgba(0, 0, 0, 0.1);
-box-sizing: border-box;
-border-radius: 4px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 16px;
+    position: absolute;
+    width: 195px;
+    height: 27px;
+    left: 135px;
+    top: 270px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 4px;
 }
 .git{
     position: static;
-width: 163px;
-height: 17px;
-left: 16px;
-top: 5px;
-font-family:SoleilW01-Regular;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 17px;
-color: #606060;
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 10px;
+    width: 163px;
+    height: 17px;
+    left: 16px;
+    top: 5px;
+    font-family:SoleilW01-Regular;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #606060;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
 }
 .card-2{
     position: relative;
-width: 558px;
-height: 339px;
-left: 732px;
-top: -46px;
-display: inline-block;
-
-background: #FFFFFF;
-border: 1px solid #F2EEDA;
-box-sizing: border-box;
-border-radius: 16px;
+    width: 558px;
+    height: 339px;
+    left: 732px;
+    top: -46px;
+    display: inline-block;
+    background: #FFFFFF;
+    border: 1px solid #F2EEDA;
+    box-sizing: border-box;
+    border-radius: 16px;
 }
 .btech{
 position: absolute;
@@ -366,28 +365,24 @@ width: 109px;
 height: 19px;
 left: 140px;
 top: 90px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
 line-height: 19px;
-
 color: #282828;
 }
 .hyd{
-    position: absolute;
+ position: absolute;
 width: 78px;
 height: 19px;
 left: 140px;
 top: 120px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 16px;
 line-height: 19px;
-
 color: #282828;
 }
 .more{
@@ -404,44 +399,40 @@ line-height: 17px;
 color: #C4C4C4;
 }
 .card-3{
-    position: relative;
+position: relative;
 width: 558px;
 height: 339px;
 left: 150px;
 top: -35px;
-
 background: #FFFFFF;
 border: 1px solid #F2EEDA;
 box-sizing: border-box;
 border-radius: 16px;
 }
 .card-4{
-
 position:relative;
 width: 558px;
 height: 339px;
 left: 732px;
 top: -371px;
-
 background: #FFFFFF;
 border: 1px solid #F2EEDA;
 box-sizing: border-box;
 border-radius: 16px;
 }
 .card-5{
-    position: absolute;
+position: absolute;
 width: 558px;
 height: 238px;
 left: 150px;
 top: 1113px;
-
 background: #FFFFFF;
 border: 1px solid #F2EEDA;
 box-sizing: border-box;
 border-radius: 16px;
 }
 .dash{
-    position: absolute;
+position: absolute;
 width: 8px;
 height: 24px;
 left: 138px;
@@ -454,14 +445,14 @@ line-height: 24px;
 color: #606060;
 }
 .fa-solid{
-    position: absolute;
+position: absolute;
 left: 79.77%;
 right: 13.76%;
 top: 25%;
 bottom: 28.24%;
 }
 .dropdown-content{
-    position: absolute;
+position: absolute;
 width: 345px;
 height: 502px;
 left: 5px;
@@ -482,30 +473,25 @@ z-index: 1;
     width: 134px;
     height: 18px;
     left: 30px;
-    top: 20px;
-    
+    top: 20px;  
     font-family: Lato;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 17px;
-    
+    line-height: 17px; 
     color: #646464;
 }
 .fullstack{
-
 position: absolute;
 width: 8px;
 height: 8px;
 left: 18px;
 top: 10px;
-
 background: #630BFF;
 border: 5px solid #630BFF;
 box-sizing: border-box;
 }
 #soft{
-
     position: absolute;
     left: 9.54%;
     right: 78.35%;
@@ -528,112 +514,89 @@ box-sizing: border-box;
     color: #646464;
 }
 #pro{
-
 position: absolute;
 left: 9.54%;
 right: 85.35%;
 top: 15.4%;
 bottom: 66.99%;
-
 background: #630BFF;
 }
 .gram{
-
-    position: absolute;
+position: absolute;
 width: 134px;
 height: 18px;
 left: 57px;
 top: 77px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
-
-
 }
 #mob{
-
 position: absolute;
 left: 9.54%;
 right: 85.35%;
 top: 21.4%;
 bottom: 64.08%;
-
 background: #630BFF;
-
 }
 .app{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 57px;
 top: 105px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
-
 color: #646464;
-
 }
 #gitt{
     position: absolute;
     width: 16px;
     height: 14px;
     left: 9.00%;
-    top: 32.4%;
-    
+    top: 32.4%;   
     border: 2px solid #929292;
     box-sizing: border-box;
     border-radius: 3px;
-
 }
 .hub{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 57px;
 top: 135px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
-
 }
 #back{
-    position: absolute;
+position: absolute;
 left: 9.4%;
 right: 17px;
 top: 27.4%;
 bottom: 58.27%;
-
 background: #630BFF;
-
 }
 .end{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 57px;
 top: 163px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
 }
 #soft{
@@ -658,142 +621,115 @@ color: #646464;
     color: #646464;
 }
 #pro{
-
 position: absolute;
 left: 9.54%;
 right: 85.35%;
 top: 15.4%;
 bottom: 66.99%;
-
 background: #630BFF;
 }
 .gram{
-
-    position: absolute;
+position: absolute;
 width: 134px;
 height: 18px;
 left: 57px;
 top: 77px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
-
-
 }
 #mob{
-
 position: absolute;
 left: 9.54%;
 right: 85.35%;
 top: 21.4%;
 bottom: 64.08%;
-
 background: #630BFF;
-
 }
 .app{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 57px;
 top: 105px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
-
 color: #646464;
-
 }
 #gitt{
     position: absolute;
     width: 16px;
     height: 14px;
     left: 9.00%;
-    top: 32.4%;
-    
+    top: 32.4%;   
     border: 2px solid #929292;
     box-sizing: border-box;
     border-radius: 3px;
-
 }
 .hub{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 57px;
 top: 135px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
-
 }
 #back{
-    position: absolute;
+position: absolute;
 left: 9.4%;
 right: 17px;
 top: 27.4%;
 bottom: 58.27%;
-
 background: #630BFF;
-
 }
 .end{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 57px;
 top: 163px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
 }
 .UX{
-
 position: absolute;
 width: 16px;
 height: 16px;
 left: 14px;
 top: 199px;
-
 border: 2px solid #929292;
 box-sizing: border-box;
 }
 .Designer{
-    position: absolute;
+position: absolute;
 width: 134px;
 height: 18px;
 left: 38px;
 top: 201px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
 }
 #wire{
-    position: absolute;
+position: absolute;
 width: 16px;
 height: 14px;
 left: 31px;
@@ -803,7 +739,7 @@ box-sizing: border-box;
 border-radius: 3px;
 }
 .framing{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 58px;
@@ -813,54 +749,47 @@ font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
 }
 #fig{
-    position: absolute;
+position: absolute;
 width: 16px;
 height: 14px;
 left: 31px;
 top: 255px;
-
 border: 2px solid #929292;
 box-sizing: border-box;
 border-radius: 3px;
 }
 .ma{
-    position: absolute;
+position: absolute;
 width: 134px;
 height: 18px;
 left: 58px;
 top: 255px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
 }
 #user{
-
 position: absolute;
 width: 16px;
 height: 14px;
 left: 31px;
 top: 280px;
-
 border: 2px solid #929292;
 box-sizing: border-box;
 border-radius: 3px;
 }
 .research{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 58px;
 top: 280px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
@@ -869,29 +798,26 @@ line-height: 17px;
 color: #646464;
 }
 #problem{
-    position: absolute;
+position: absolute;
 width: 14px;
 height: 16px;
 left: 31px;
 top: 305px;
-
 border: 2px solid #929292;
 box-sizing: border-box;
 border-radius: 3px;
 }
 .solve{
-    position: absolute;
+position: absolute;
 width: 244px;
 height: 17px;
 left: 58px;
 top: 306px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
 font-size: 14px;
 line-height: 17px;
-
 color: #646464;
 }
 .line2{
@@ -899,18 +825,15 @@ color: #646464;
     width: 345px;
     height: 0px;
     left: -2px;
-    top: 389px;
-    
+    top: 389px;  
     border: 1px solid #F2EEDA;
 }
 .resett{
-
 position: absolute;
 width: 34px;
 height: 17px;
 left: 20px;
 top: 460px;
-
 font-family: Lato;
 font-style: normal;
 font-weight: normal;
@@ -919,7 +842,7 @@ line-height: 17px;
 color: #646464;
 }
 .btn{
-    position: absolute;
+position: absolute;
 width: 123px;
 height: 42px;
 left: 196px;
@@ -928,18 +851,15 @@ background: linear-gradient(90deg, #7A62F8 0%, #630BFF 100%);
 border-radius: 8px;
 }
 .btn input{
-
 position: absolute;
 width: 43px;
 height: 19px;
 left: 40px;
 top: 14px;
-
 font-family: Lato;
 font-style: normal;
 font-size: 15px;
 line-height: 19px;
-
 color: black;
 background: linear-gradient( 
 90deg, #7A62F8 0%, #630BFF 100%);
@@ -949,12 +869,11 @@ border: none;
     cursor:pointer;
 }
 .softfilter{
-    position: absolute;
+position: absolute;
 width: 287px;
 height: 50px;
 left: 150px;
 top: 277px;
-
 background: #F2EEDA;
 border: 1px solid #B8B298;
 box-sizing: border-box;
@@ -968,13 +887,12 @@ border-radius: 8px;
     display: flex;
 }
 #filters1{ 
-    position: absolute;
+position: absolute;
 width: 287px;
 height: 50px;
 left: 113px;
 top: 6px;
 padding: 12px;
-
 background: #F2EEDA;
 border: 1px solid #B8B298;
 box-sizing: border-box;
@@ -986,8 +904,7 @@ border-radius: 8px;
     height: 50px;
     left: 416px;
     top: 6px;
-    padding: 12px;
-    
+    padding: 12px;    
     background: #F2EEDA;
     border: 1px solid #B8B298;
     box-sizing: border-box;
